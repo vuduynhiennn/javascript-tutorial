@@ -6,3 +6,5 @@ có outline, nội dung, học cách trình bày:
 nội dung bài viết có chứa từ khóa cần SEO nhiều lần một cách hợp lí, nên có internal link và outbound link 
 
 keyword finder 
+
+nên để alt trong thẻ <img> trùng với từ khóa muốn xem và có alt properties

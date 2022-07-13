@@ -7,6 +7,7 @@ myFunction('user');
 const myFunction = (login) =>{
     console.log(login + ' ' + 'login sucessfully')
 }
+
 myFunction('user');
 
 const sum = (a, b) => {

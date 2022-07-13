@@ -1,4 +1,4 @@
-let myInfo = {
+let myInfor = {
     name: 'Vu Duy Nhien',
     age: 18,
     address: 'Yên Phúc, Ý Yên, Nam Định',
@@ -7,6 +7,11 @@ let myInfo = {
     }
 };
 
-myInfo.email = 'nhienduyvu@gmail.com';
+myInfor.email = 'nhienduyvu@gmail.com';
+myInfor['myFuck'] = 'nhienduyvu@gmail.com';
 
-myInfo.getName();
+delete myInfor.address;
+
+console.log(myInfor.address);
+console.log(myInfor['name']);
+

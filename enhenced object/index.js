@@ -1,13 +1,13 @@
 var name = 'Vu Duy Nhien'
 var price = 18
 // normal
-// var course = {
-//     name: name,
-//     price: price,
-//     getName: function() {
-//         return this.name
-//     }
-// }
+var course = {
+    name: name,
+    price: price,
+    getName: function() {
+        return this.name
+    }
+}
 // enhenced object literal
 // var course = {
 //     name,
